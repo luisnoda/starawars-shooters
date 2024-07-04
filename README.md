@@ -1,2 +1,2 @@
-# starawars-shooters
+# starwars-shooters
 Un pequeño juego con 
